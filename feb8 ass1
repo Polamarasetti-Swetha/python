@@ -1,0 +1,4 @@
+k=int(input('enter kilometers'))
+print('conversion of kilometer into centimeters')
+c=k*100000
+print('centimeter',c)
